@@ -10,7 +10,7 @@ Demanda includes an admin example site made with Svelte JS and Apollo client. It
 
 ## The Road ahead
 
-https://github.com/jorgegorka/demanda/projects
+https://github.com/unudeveloper/Ruby-on-Rails-website-.git
 
 ## Credits
 
