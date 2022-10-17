@@ -15,10 +15,13 @@ With Coolio you can create your own e-commerce site with Gatsby, Sapper, Nuxt, G
 
 Coolio includes an admin example site made with Svelte JS and Apollo client. It uses TailwindCss for layout and styling.
 
-## Screes
+## Screens
+Landing Page
+### Desktop
 <img src="./Imgs/Home.png" alt="Landing Page1" />
 <img src="./Imgs/Homeitem1.png" alt="Landing Page2" />
 
+### Mobile
 <img src="./Imgs/mobile_home.png" alt="Mobile Page1" />
 <img src="./Imgs/mobile_home1.png" alt="Mobile Page2" />
 <img src="./Imgs/mobile_home2.png" alt="Mobile Page3" />
