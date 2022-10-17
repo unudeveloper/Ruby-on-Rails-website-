@@ -14,7 +14,7 @@
         text-center text-white md:text-left">
 
         <h1 class="my-4 text-5xl font-display font-bold leading-tight">
-          Demanda
+          Coolio
         </h1>
         <p class="leading-normal font-display text-3xl mb-8">
           An open source e-commerce solution based on Rails 6, GraphQL,

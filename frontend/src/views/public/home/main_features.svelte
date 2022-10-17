@@ -16,7 +16,7 @@
   id="all-included"
   class="py-16 bg-white flex flex-col items-center lg:pt-20">
   <h2 class="text-2xl lg:text-5xl text-landBg font-display font-bold">
-    What you can do with Demanda
+    What you can do with Coolio
   </h2>
   <div class="pt-12 flex flex-col items-center md:flex-row flex-wrap">
     <div class="px-4 pt-6 md:px-8 lg:px-12 flex flex-col items-center md:w-1/3">
@@ -36,7 +36,7 @@
 
       <p class="mt-3 px-1 text-center text-gray-900 text-sm lg:text-base">
         Backend and frontend are completely separated. Use what you need. It's
-        very easy to integrate Demanda into you client's website.
+        very easy to integrate Coolio into you client's website.
       </p>
     </div>
     <div class="px-4 pt-6 md:px-8 lg:px-12 flex flex-col items-center md:w-1/3">
@@ -54,7 +54,7 @@
       </div>
       <h3 class="text-gray-700 font-semibold mt-3">Secure and scalable</h3>
       <p class="mt-3 px-1 text-center text-gray-900 text-sm lg:text-base">
-        Demanda uses modern and reliable technologies like: Ruby on Rails,
+        Coolio uses modern and reliable technologies like: Ruby on Rails,
         GraphQL, JWT, TailwindCss, Apollo and Svelte JS. This site is deployed
         in Google's Firebase.
       </p>

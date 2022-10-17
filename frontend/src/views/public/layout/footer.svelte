@@ -18,12 +18,12 @@
         class="text-blue-300"
         href="https://www.alvareznavarro.es"
         title="Contact Jorge Alvarez">
-        Jorge Alvarez
+        Unudeveloper
       </a>
       | Download the
       <a
         class="text-blue-300"
-        href="https://github.com/jorgegorka/demanda"
+        href="https://github.com/unudeveloper/Ruby-on-Rails-website-"
         title="Open source e-commerce software">
         source code
       </a>

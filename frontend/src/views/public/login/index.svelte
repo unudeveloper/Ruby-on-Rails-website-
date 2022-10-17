@@ -13,7 +13,7 @@
   <div class="sm:mx-auto sm:w-full sm:max-w-md">
     <h1
       class="mt-6 text-center text-3xl leading-9 font-extrabold text-gray-900">
-      Demanda E-commerce
+      Coolio E-commerce
     </h1>
     <p class="mt-2 text-center text-sm leading-5 text-gray-600 max-w">
       Rails - Graphql - Svelte - TailwindCss - Open source

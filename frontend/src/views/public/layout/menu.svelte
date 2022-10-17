@@ -41,7 +41,7 @@
             C459,235.875,379.95,307.274,257.55,419.475z" />
 
         </svg>
-        Demanda E-commerce
+        Coolio E-commerce
       </a>
     </div>
 

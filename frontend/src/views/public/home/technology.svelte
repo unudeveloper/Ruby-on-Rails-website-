@@ -5,21 +5,21 @@
   const section1 = {
     title: "All you need to create a modern online shop",
     description:
-      "With Demanda you can create secure, scalable, robust and modern online shops. Thanks to its GraphQL API is very configurable. Demanda's been created using reliable and modern technologies.",
+      "With Coolio you can create secure, scalable, robust and modern online shops. Thanks to its GraphQL API is very configurable. Coolio's been created using reliable and modern technologies.",
     imageSrc: "/images/create-modern-online-shops.jpg",
     imageAlt: "create secure, scalable, robust and modern online shops"
   };
   const section2 = {
     title: "For developers and designers",
     description:
-      "Whether you are a developer or a designer, with Demanda you can create and customise an e-commerce site very quickly. Use only what you need. Backend and frontend are completely separated.",
+      "Whether you are a developer or a designer, with Coolio you can create and customise an e-commerce site very quickly. Use only what you need. Backend and frontend are completely separated.",
     imageSrc: "/images/designers-developers.jpg",
     imageAlt: "for developers and designers"
   };
   const section3 = {
     title: "Bring your own frontend",
     description:
-      "If you are using any modern website creator like Gatsby JS, Sapper, Nuxt or Gridsome just to name a few, you will find in Demanda the perfect tool to add e-commerce functionality to your site.",
+      "If you are using any modern website creator like Gatsby JS, Sapper, Nuxt or Gridsome just to name a few, you will find in Coolio the perfect tool to add e-commerce functionality to your site.",
     imageSrc: "/images/help-available.jpg",
     imageAlt: "Conctact me for commercial support"
   };
