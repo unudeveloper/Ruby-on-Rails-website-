@@ -26,6 +26,7 @@ Landing Page
 <img src="./Imgs/mobile_home1.png" alt="Mobile Page2" />
 <img src="./Imgs/mobile_home2.png" alt="Mobile Page3" />
 
+### Login/Register
 <img src="./Imgs/register.png" alt="Login/Register" />
 
 ## The Road ahead
